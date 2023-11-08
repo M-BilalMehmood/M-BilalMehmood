@@ -40,9 +40,9 @@ I'm a Software Engineering student pursuing my Bachelor's degree at FAST NUCES I
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nue-0&show_icons=true&locale=en&layout=compact" alt="nue-0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nue-0&show_icons=true&locale=en" alt="nue-0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nue-0&show_icons=true&locale=en" alt="nue-0" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nue-0&" alt="nue-0" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nue-0&" alt="nue-0" /></p>
 
 ### 🌈 Fun Fact
 I believe that design is not just about making things look good, but also about making things work beautifully. I'm on a quest to blend technology and art to create amazing digital experiences!
