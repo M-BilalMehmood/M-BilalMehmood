@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/969653537405554738/1171918026401128639/Bilal_2.png?ex=655e6cb6&is=654bf7b6&hm=c8fef3081c9b3b7491491d395df8da6070481597a4c2b8b8ec2178d9d76883e7&)
+![MasterHead](https://cdn.discordapp.com/attachments/969653537405554738/1171919939540627536/Bilal_4.png?ex=655e6e7e&is=654bf97e&hm=808e0b18d930aa36a8f9ab067adf0bb4d34ce8ce806c016d495d138583eb7b13&)
 <h1 align="center">Hi there👋, I'm M. Bilal Mehmood</h1>
 <h3 align="center">A passionate Software Engineer and UI/UX Designer</h3>
 
