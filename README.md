@@ -28,12 +28,21 @@ I'm a Software Engineering student pursuing my Bachelor's degree at FAST NUCES I
 
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/muhammad-bilal-mehmood-a66695264)
-- **Email:** bilalmehmood2004@gmail.com
 
-### 🌐 Find Me Online
-- **Twitter:** [@MBilalMehmood5](https://twitter.com/MBilalMehmood5)
-- **Instagram:** [@m.bilal.mehmood](https://www.instagram.com/m.bilal.mehmood/)
+<p align="left">
+<a href="https://twitter.com/mbilalmehmood5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbilalmehmood5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mbilalmehmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbilalmehmood" height="30" width="40" /></a>
+<a href="https://instagram.com/m.bilal.mehmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.bilal.mehmood" height="30" width="40" /></a>
+<a href="https://dribbble.com/nue-0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nue-0" height="30" width="40" /></a>
+<a href="https://www.behance.net/bilalmehmood14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bilalmehmood14" height="30" width="40" /></a>
+<a href="https://discord.gg/.nu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".nu3" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nue-0&show_icons=true&locale=en&layout=compact" alt="nue-0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nue-0&show_icons=true&locale=en" alt="nue-0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nue-0&" alt="nue-0" /></p>
 
 ### 🌈 Fun Fact
 I believe that design is not just about making things look good, but also about making things work beautifully. I'm on a quest to blend technology and art to create amazing digital experiences!
