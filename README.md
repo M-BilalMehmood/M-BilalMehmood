@@ -1,3 +1,4 @@
+[![MasterHead](https://drive.google.com/file/d/10srNUks2XM86ssFGmv0Ai_MY6TFm83kn/view?usp=sharing)]
 <h1 align="center">Hi there👋, I'm M. Bilal Mehmood</h1>
 <h3 align="center">A passionate Software Engineer and UI/UX Designer</h3>
 
@@ -40,17 +41,15 @@ I'm a Software Engineering student pursuing my Bachelor's degree at FAST NUCES I
 <a href="https://discord.gg/.nu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".nu3" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nue-0&show_icons=true&theme=dark&title_color=fb6e03&text_color=ffffff&locale=en&layout=compact" alt="nue-0" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nue-0&show_icons=true&theme=dark&title_color=fb6e03&text_color=ffffff&locale=en" alt="nue-0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nue-0&theme=dark" alt="nue-0" /></p>
-
 ### 🌈 Fun Fact
 I believe that design is not just about making things look good, but also about making things work beautifully. I'm on a quest to blend technology and art to create amazing digital experiences!
 
 Feel free to reach out if you'd like to collaborate, chat about design, or simply connect with a fellow developer and designer. 😄
 
+
+<p><img align="left" align="right" src="https://github-readme-stats.vercel.app/api?username=nue-0&show_icons=true&theme=dark&title_color=fb6e03&text_color=ffffff&locale=en" alt="nue-0" /></p>
+
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=nue-0&theme=dark" alt="nue-0" /></p>
 
 <!---
 NUE-0/NUE-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
