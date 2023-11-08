@@ -8,7 +8,7 @@ I have a keen interest in UI/UX design, and I love crafting visually appealing a
 
 ### 💻 Tech Stack
 - **Design Tools:** Figma, Photoshop, Canva, and more.
-- **Programming Languages:** HTML, CSS, C++, JavaScript(🐍 Exploring the world of JS and its applications).
+- **Programming Languages:** HTML, CSS, C++, JavaScript (🐍 Currently exploring the world of JS and its applications).
 
 ### 🌟 What I Do
 - Design stunning user interfaces and experiences.
