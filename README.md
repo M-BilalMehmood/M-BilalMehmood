@@ -27,7 +27,7 @@ I'm a Software Engineering student pursuing my Bachelor's degree at FAST NUCES I
 - Searching for new coding and technology trends.
 
 
-### 📫 Let's Connect
+### 📫 Let's Connect!
 
 <p align="left">
 <a href="https://twitter.com/mbilalmehmood5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbilalmehmood5" height="30" width="40" /></a>
