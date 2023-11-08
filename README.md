@@ -1,6 +1,8 @@
 <h1 align="center">Hi there👋, I'm M. Bilal Mehmood</h1>
 <h3 align="center">A passionate Software Engineer and UI/UX Designer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nue-0&label=Profile%20views&color=fb6e03&style=flat" alt="nue-0" /> </p>
+
 ### 🚀 About Me?
 I'm a Software Engineering student pursuing my Bachelor's degree at FAST NUCES ISB. I'm passionate about technology, design, and creating beautiful user experiences. My journey as a developer and designer is an exciting one, and I'm always eager to explore new tools and technologies. I am also a UI/UX enthusiast. I love to create new user interfaces and experiences from my imagination and inspiration from the internet.
 
@@ -38,11 +40,11 @@ I'm a Software Engineering student pursuing my Bachelor's degree at FAST NUCES I
 <a href="https://discord.gg/.nu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".nu3" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nue-0&show_icons=true&locale=en&layout=compact" alt="nue-0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nue-0&show_icons=true&theme=dark&title_color=fb6e03&text_color=ffffff&locale=en&layout=compact" alt="nue-0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nue-0&show_icons=true&locale=en" alt="nue-0" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nue-0&show_icons=true&theme=dark&title_color=fb6e03&text_color=ffffff&locale=en" alt="nue-0" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nue-0&" alt="nue-0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nue-0&theme=dark" alt="nue-0" /></p>
 
 ### 🌈 Fun Fact
 I believe that design is not just about making things look good, but also about making things work beautifully. I'm on a quest to blend technology and art to create amazing digital experiences!
