@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/969653537405554738/1171923668054593556/Bilal_5.png?ex=655e71f7&is=654bfcf7&hm=0d496863e7a9d11c67fcc28e70722f8b1447b9f09b582de4974f68c70b362d9a&)
+![MasterHead](https://cdn.discordapp.com/attachments/969653537405554738/1171919939540627536/Bilal_4.png?ex=655e6e7e&is=654bf97e&hm=808e0b18d930aa36a8f9ab067adf0bb4d34ce8ce806c016d495d138583eb7b13&)
 <h1 align="center">Hi there👋, I'm M. Bilal Mehmood</h1>
 <h3 align="center">A passionate Software Engineer and UI/UX Designer</h3>
 
@@ -55,5 +55,6 @@ Feel free to reach out if you'd like to collaborate, chat about design, or simpl
 NUE-0/NUE-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-alternative link for upper image: https://cdn.discordapp.com/attachments/969653537405554738/1171919939540627536/Bilal_4.png?ex=655e6e7e&is=654bf97e&hm=808e0b18d930aa36a8f9ab067adf0bb4d34ce8ce806c016d495d138583eb7b13&
+alternative link for upper image:
+https://cdn.discordapp.com/attachments/969653537405554738/1171923668054593556/Bilal_5.png?ex=655e71f7&is=654bfcf7&hm=0d496863e7a9d11c67fcc28e70722f8b1447b9f09b582de4974f68c70b362d9a&
 --->
