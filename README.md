@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/10srNUks2XM86ssFGmv0Ai_MY6TFm83kn/view?usp=sharing)]
+![MasterHead](https://cdn.discordapp.com/attachments/969653537405554738/1171912235094913104/Bilal_1-compressed.jpg?ex=655e6751&is=654bf251&hm=678f00cc275ad8486a4b470717dc78a1e7a39b9e1a112dc4ff68ad23e278850d&)
 <h1 align="center">Hi there👋, I'm M. Bilal Mehmood</h1>
 <h3 align="center">A passionate Software Engineer and UI/UX Designer</h3>
 
