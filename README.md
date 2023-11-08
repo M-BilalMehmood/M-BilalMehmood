@@ -1,11 +1,8 @@
 <h1 align="center">Hi there👋, I'm M. Bilal Mehmood</h1>
 <h3 align="center">A passionate Software Engineer and UI/UX Designer</h3>
 
-### 🚀 About Me
+### 🚀 About Me?
 I'm a Software Engineering student pursuing my Bachelor's degree at FAST NUCES ISB. I'm passionate about technology, design, and creating beautiful user experiences. My journey as a developer and designer is an exciting one, and I'm always eager to explore new tools and technologies.
-
-### 🎨 UI/UX Enthusiast
-I have a keen interest in UI/UX design, and I love crafting visually appealing and user-friendly interfaces. Whether it's websites, mobile apps, or other digital experiences, I enjoy the process of creating designs that not only look great but also provide a seamless user experience.
 
 ### 💻 Tech Stack
 - **Design Tools:** Figma, Photoshop, Canva, and more.
