@@ -8,14 +8,6 @@ I'm a Software Engineering student pursuing my Bachelor's degree at FAST NUCES I
 - **Design Tools:** Figma, Photoshop, Canva, and more.
 - **Programming Languages:** HTML, CSS, C++, JavaScript (🐍 Currently exploring the world of JS and its applications).
 
-### 🌟 What I Do
-- Design stunning user interfaces and experiences.
-- Develop web applications with a focus on user-centric design.
-- Explore new technologies and keep up with the latest design trends.
-- Learning new coding styles and aspects daily.
-- Searching for new coding and technology trends.
-
-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
@@ -26,6 +18,14 @@ I'm a Software Engineering student pursuing my Bachelor's degree at FAST NUCES I
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
+
+### 🌟 What I Do
+- Design stunning user interfaces and experiences.
+- Develop web applications with a focus on user-centric design.
+- Explore new technologies and keep up with the latest design trends.
+- Learning new coding styles and aspects daily.
+- Searching for new coding and technology trends.
+
 
 ### 📫 Let's Connect
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/muhammad-bilal-mehmood-a66695264)
