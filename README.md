@@ -47,7 +47,7 @@ I believe that design is not just about making things look good, but also about 
 Feel free to reach out if you'd like to collaborate, chat about design, or simply connect with a fellow developer and designer. 😄
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nue-0&show_icons=true&theme=dark&title_color=fb6e03&text_color=ffffff&locale=en" alt="nue-0" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=nue-0&show_icons=true&theme=dark&title_color=fb6e03&text_color=ffffff&locale=en" alt="nue-0" /></p>
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=nue-0&theme=dark" alt="nue-0" /></p>
 
