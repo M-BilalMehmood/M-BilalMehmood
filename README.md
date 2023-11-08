@@ -22,8 +22,8 @@ I have a keen interest in UI/UX design, and I love crafting visually appealing a
 - **Email:** bilalmehmood2004@gmail.com
 
 ### 🌐 Find Me Online
-- **Twitter:** [@bilalmehmood](https://twitter.com/bilalmehmood)
-- **Instagram:** [@bilaldesigns](https://instagram.com/m.bilal.mehmood)
+- **Twitter:** [@MBilalMehmood5](https://twitter.com/MBilalMehmood5)
+- **Instagram:** [@m.bilal.mehmood](https://www.instagram.com/m.bilal.mehmood/)
 
 ### 🌈 Fun Fact
 I believe that design is not just about making things look good, but also about making things work beautifully. I'm on a quest to blend technology and art to create amazing digital experiences!
