@@ -42,7 +42,7 @@ I'm a Software Engineering student pursuing my Bachelor's degree at FAST NUCES I
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nue-0&show_icons=true&theme=dark&title_color=fb6e03&text_color=ffffff&locale=en&layout=compact" alt="nue-0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nue-0&show_icons=true&theme=dark&title_color=fb6e03&text_color=ffffff&locale=en" alt="nue-0" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nue-0&show_icons=true&theme=dark&title_color=fb6e03&text_color=ffffff&locale=en" alt="nue-0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nue-0&theme=dark" alt="nue-0" /></p>
 
