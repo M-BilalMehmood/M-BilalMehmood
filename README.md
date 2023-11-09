@@ -8,7 +8,7 @@
 I'm a Software Engineering student pursuing my Bachelor's degree at FAST NUCES ISB. I'm passionate about technology, design, and creating beautiful user experiences. My journey as a developer and designer is an exciting one, and I'm always eager to explore new tools and technologies. I am also a UI/UX enthusiast. I love to create new user interfaces and experiences from my imagination and inspiration from the internet.
 
 ### 💻 Tech Stack
-- **Design Tools:** Figma, Photoshop, Canva, and more.
+- **Design Tools:** Figma, Photoshop, Canva, Adobe XD, Pencil.
 - **Programming Languages:** HTML, CSS, C++, JavaScript.
 
 <p align="left"> 
