@@ -48,9 +48,10 @@ Feel free to reach out if you'd like to collaborate, chat about design, or simpl
 
 
 ### 📈 Github Status
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=nue-0&show_icons=true&theme=dark&title_color=fb6e03&text_color=ffffff&locale=en" alt="M-BilalMehmood" /></p>
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=nue-0&theme=dark" alt="M-BilalMehmood" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=M-BilalMehmood&show_icons=true&theme=dark&title_color=fb6e03&text_color=ffffff&locale=en" alt="M-BilalMehmood" /></p>
+
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=M-BilalMehmood&theme=dark" alt="M-BilalMehmood" /></p>
 
 <!---
 NUE-0/NUE-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
