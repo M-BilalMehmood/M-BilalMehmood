@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1T4QkZXJ58Yt3CtjzBHvO7CsnNdNZrSnX/view?usp=sharing)
+![MasterHead](https://github.com/M-BilalMehmood/M-BilalMehmood/blob/main/Bilal.png)
 <h1 align="center">Hi there👋, I'm M. Bilal Mehmood</h1>
 <h3 align="center">A passionate Software Engineer and UI/UX Designer</h3>
 
