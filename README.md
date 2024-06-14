@@ -9,7 +9,7 @@ I'm a Software Engineering student pursuing my Bachelor's degree at FAST NUCES I
 
 ### 💻 Tech Stack
 - **Design Tools:** Figma, Photoshop, Canva, Adobe XD, Pencil.
-- **Programming Languages:** HTML, CSS, C++, Java, Python.
+- **Programming Languages:** HTML, CSS, C++, C#, Java, Python.
 
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
