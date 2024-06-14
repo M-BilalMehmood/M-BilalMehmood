@@ -53,7 +53,9 @@ Feel free to reach out if you'd like to collaborate, chat about design, or simpl
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=M-BilalMehmood&theme=dark" alt="M-BilalMehmood" /></p>
 
+<div align="center">
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/contributiongrid.svg)
+</div>
 
 <!---
 NUE-0/NUE-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
