@@ -60,7 +60,7 @@ Feel free to reach out if you'd like to collaborate, chat about design, or simpl
 
 <details>
     <summary>DO NOT OPEN</summary>
-    <p><strong>Got Rick Rolled? HAHAHAHA! I am aware of all Internet Traditions and I am never gonna give them up!</strong></p>
+    <p><strong>Got Rick Rolled? HAHAHAHA!</strong></p>
     <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
     <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
